@@ -1,0 +1,5 @@
+class AssetLoader {
+  constructor(url) {
+
+  }
+}
